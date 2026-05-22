@@ -1,6 +1,6 @@
 
 import 'package:doc_doc/core/routing/routes.dart';
-import 'package:doc_doc/features/login/ui/widgets/login_screen.dart';
+import 'package:doc_doc/features/login/ui/login_screen.dart';
 import 'package:doc_doc/features/onboarding/onboarding_screen.dart';
 import 'package:flutter/material.dart';
 
